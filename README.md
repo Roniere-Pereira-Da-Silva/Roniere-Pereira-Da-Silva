@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Roniere-Pereira-Da-Silva/Roniere-Pereira-Da-Silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 # 💫 About Me:
 -Desenvolvedor Full Stack<br>-Programador   Full Stack<br>-Professor  Programação <br><br><br>
