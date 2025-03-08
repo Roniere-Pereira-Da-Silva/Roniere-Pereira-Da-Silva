@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">Meu nome é Roniere Sou formado em Análise e Desenvolvimento de Sistemas e tenho uma pós-graduação em Full Stack , o que me deu uma visão completa do desenvolvimento de software, desde o back-end até o front-end. Tenho conhecimento em desenvolvimento web , trabalhando com tecnologias modernas para criar aplicações dinâmicas e eficientes. Estou sempre buscando aprender mais e me aprimorar, seja explorando novas ferramentas, resolvendo desafios práticos ou compartilhando conhecimento. Meu objetivo é crescer na área de tecnologia e contribuir com soluções inovadoras.</p>
 
 ###
 
