@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning <br>🎯 Goals: quero me tornar senior <br>🎲 Fun fact: Sou professor a 3 anos de programação. </p>
 
 ###
 
